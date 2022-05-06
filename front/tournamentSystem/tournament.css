@@ -1,0 +1,4 @@
+.window-variants{
+    display: flex;
+    flex-direction: column;
+}
